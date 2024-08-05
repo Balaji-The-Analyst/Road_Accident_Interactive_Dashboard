@@ -17,7 +17,7 @@ This is an analysis of the road accident dataset in Kaggle. The main aim of this
 * Established slicers to enable interactive filtering across all tables, ensuring seamless data exploration.
 * Formatted each section of the dashboard and applied a cohesive theme for a visually appealing and cohesive presentation of insights.
 
-## Here are my key takeaways
+## Here are some key takeaways
 * car accidents caused 79.8% of casualties.
 * 84% of casualties are slight.
 * The year 2021 is the highest number of casualties recorded year compared to 2022.
