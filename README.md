@@ -1,5 +1,5 @@
 # Road Accident Analysis Dashboard
-This is an analysis of the road accident dataset in Kaggle. The main aim of this analysis is to create an interactive dashboard to look at overall data and identify the insights from the dashboard.
+This is an analysis of the road accident dataset from Kaggle. The main aim of this analysis is to create an interactive dashboard to review the overall data and identify insights from it.
 
 ## Here are the points I was interested in.
 * Primary KPI - Total casualties have taken place after the accident.
